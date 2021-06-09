@@ -4,7 +4,7 @@
 
 __A faire en équipes de deux personnes__
 
-Equipe: Michaël da Silva, 
+**Equipe: Michaël da Silva, Nenad Rajic**
 
 ### Objectif :
 
